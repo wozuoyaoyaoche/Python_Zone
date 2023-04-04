@@ -1,3 +1,4 @@
+#适用于异或注入
 import requests
 import time
 
